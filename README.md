@@ -3,9 +3,9 @@
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![GitHub last commit](https://img.shields.io/github/last-commit/last-kakas-1989/hpc-ai-tools)](https://github.com/last-kakas-1989/hpc-ai-tools)
-[![GitHub issues](https://img.shields.io/github/issues/last-kakas-1989/hpc-ai-tools)](https://github.com/last-kakas-1989/hpc-ai-tools/issues)
-[![GitHub stars](https://img.shields.io/github/stars/last-kakas-1989/hpc-ai-tools)](https://github.com/last-kakas-1989/hpc-ai-tools/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/lastkakas1989-arch/hpc-ai-tools)](https://github.com/lastkakas1989-arch/hpc-ai-tools)
+[![GitHub issues](https://img.shields.io/github/issues/lastkakas1989-arch/hpc-ai-tools)](https://github.com/lastkakas1989-arch/hpc-ai-tools/issues)
+[![GitHub stars](https://img.shields.io/github/stars/lastkakas1989-arch/hpc-ai-tools)](https://github.com/lastkakas1989-arch/hpc-ai-tools/stargazers)
 
 A professional toolset for automated HPC (High Performance Computing) and AI content generation, curation, and publishing.
 
@@ -68,7 +68,7 @@ hpc-ai-tools/
 1. **Clone and setup environment:**
 ```bash
 # Clone the repository
-git clone https://github.com/last-kakas-1989/hpc-ai-tools.git
+git clone https://github.com/lastkakas1989-arch/hpc-ai-tools.git
 cd hpc-ai-tools
 
 # Create and activate conda environment
